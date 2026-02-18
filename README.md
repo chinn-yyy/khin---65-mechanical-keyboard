@@ -1,14 +1,16 @@
 # khin---65-mechanical-keyboard
-65% mechanical keyboard running QMK firmware on a Raspberry Pi Pico with LED's, an OLED display, and 2 macro keys. 
+This keyboard was designed for productivity for the Blueprint club ran by HackClub. It features a 66 key layout with 2 programmable macro keys. I chose the DUROCK Ice King switches for this project. Not only do they sound amazing, they also match my vibe; transparent. Additionally, I decided to use the GATREON screw in stabilizers that are also, you guessed it, transparent! 
+
+My keyboard isn't just a keyboard with keys. It also features a big, bright, 0.91 inch OLED display that can display the last key you pressed, a fun animation, etc. Not only does it have an OLED it also has 68 addressable LED's. One for each key. These can be any color and any pattern.
+
+On the firmware side of things, my keyboard is being ran by QMK open source firmware on a Raspberry Pi Pico. QMK is specifically designed for keyboards, not only is it easy to use but it also has tons of features. 
+
+
+Make sure to look at my Blueprint page to see the journal and the process it took to build this. Here is the link: https://blueprint.hackclub.com/projects/11738
 
 
 
-
-
-
-
-
-Photos:
+Here are some photos of the finished product:
 
 
   Fully Assembled (CAD):

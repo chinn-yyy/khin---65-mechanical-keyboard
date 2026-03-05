@@ -14,8 +14,8 @@ Here are some photos of the finished product:
 
 
   Fully Assembled (CAD):
-<img width="1451" height="528" alt="image" src="https://github.com/user-attachments/assets/9af48f95-a488-4123-aea3-808550341620" />
-<img width="1249" height="437" alt="image" src="https://github.com/user-attachments/assets/6a73b867-060f-4cb3-88bc-ac4bd56ebcb1" />
+<img width="792" height="457" alt="image" src="https://github.com/user-attachments/assets/1aed3ad8-1b38-4cd6-bcac-beabfc67c98a" />
+<img width="1069" height="495" alt="image" src="https://github.com/user-attachments/assets/b6feb77e-437c-4b12-bb8f-33b35cebb992" />
   Schematic:
 <img width="1105" height="689" alt="Screenshot 2026-02-17 161033" src="https://github.com/user-attachments/assets/da685964-c0e8-495c-af49-3215a33029db" />
 <img width="1161" height="567" alt="image" src="https://github.com/user-attachments/assets/b1a120a1-54d3-4b8f-8933-d4eb86ca6fab" />
@@ -23,8 +23,10 @@ Here are some photos of the finished product:
 <img width="1131" height="389" alt="image" src="https://github.com/user-attachments/assets/fe80a7b0-5064-4925-8288-7c0cd24325f4" />
 <img width="1322" height="467" alt="image" src="https://github.com/user-attachments/assets/41286429-2150-4cf8-aa0f-f91656a7ca8e" />
   CAD:
-<img width="1407" height="595" alt="image" src="https://github.com/user-attachments/assets/084cb520-231b-4657-845f-d35edf51da3f" />
-<img width="1241" height="426" alt="image" src="https://github.com/user-attachments/assets/3307d266-2924-4418-8392-57ab67277a9d" />
+<img width="733" height="339" alt="image" src="https://github.com/user-attachments/assets/fce19756-6695-44d8-8900-9e8675ea18ce" />
+<img width="939" height="505" alt="image" src="https://github.com/user-attachments/assets/e9aab3a7-51a7-465a-acda-014dc09d87aa" />
+<img width="787" height="469" alt="image" src="https://github.com/user-attachments/assets/89e83dbb-6aa0-490a-b881-2e6f94213ce6" />
+
 [tableConvert.com_irgoez.md](https://github.com/user-attachments/files/25429461/tableConvert.com_irgoez.md)
 | Name:                             | Description:                                                        | Price: (each) | Shipping Price: | Quanity: | Manufacturer: | Total Price (with tax + shipping): | URL:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |-----------------------------------|---------------------------------------------------------------------|---------------|-----------------|----------|---------------|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

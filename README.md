@@ -14,6 +14,7 @@ Here are some photos of the finished product:
 
 
   Fully Assembled (CAD):
+  
 <img width="792" height="457" alt="image" src="https://github.com/user-attachments/assets/1aed3ad8-1b38-4cd6-bcac-beabfc67c98a" />
 <img width="1069" height="495" alt="image" src="https://github.com/user-attachments/assets/b6feb77e-437c-4b12-bb8f-33b35cebb992" />
   Schematic:
@@ -23,6 +24,7 @@ Here are some photos of the finished product:
 <img width="1131" height="389" alt="image" src="https://github.com/user-attachments/assets/fe80a7b0-5064-4925-8288-7c0cd24325f4" />
 <img width="1322" height="467" alt="image" src="https://github.com/user-attachments/assets/41286429-2150-4cf8-aa0f-f91656a7ca8e" />
   CAD:
+  
 <img width="733" height="339" alt="image" src="https://github.com/user-attachments/assets/fce19756-6695-44d8-8900-9e8675ea18ce" />
 <img width="939" height="505" alt="image" src="https://github.com/user-attachments/assets/e9aab3a7-51a7-465a-acda-014dc09d87aa" />
 <img width="787" height="469" alt="image" src="https://github.com/user-attachments/assets/89e83dbb-6aa0-490a-b881-2e6f94213ce6" />
